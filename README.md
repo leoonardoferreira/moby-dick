@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Moby Dick
 
-## Nome do Grupo
+## Junáticos
 
 ## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luciano Reis Massaro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Morais Zimmer</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luis Felipe Torelli Sparrapan</a>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Moby Dick" border="0">
-  Game by <a href="http://www.nyphotographic.com/">LLLM</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+  Game by <a href="http://www.nyphotographic.com/">Junáticos</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </p>
 
 
