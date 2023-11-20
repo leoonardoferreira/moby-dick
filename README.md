@@ -8,23 +8,22 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luciano Reis Massaro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Morais Zimmer</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luis Felipe Torelli Sparrapan</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Moby Dick" border="0">
+  Game by <a href="http://www.nyphotographic.com/">LLLM</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Moby Dick é um jogo 3D dentro idealizado em torno da ODS "Vida na Água", um dos objetivo de desenvolvimento social da Organização das Nações Unidas (ONU). Nele, você é uma baleia branca que tem como objetivo aniquilar os barcos inimigos que fazem a caça ilegal de sua espécie.
 <br><br>
-May the force be with you!
+Você só quer proteger seus amigos e familiares dos humanos malvados, propagar sua espécie pelos mares do Japão e viver em paz. Os humanos só vão parar quando você mostrar seu potencial e força para combatê-los, bora lutar?!
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -45,8 +44,6 @@ May the force be with you!
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 Há também 4 pastas que seguem da seguinte forma:
 
@@ -122,7 +119,10 @@ A cada atualização os detalhes devem ser lançados aqui.
 Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+3. <https://github.com/gabrieldejesus/readme-model>
+4. <https://creativecommons.org/share-your-work/>
+6. <https://freesound.org/>
+7. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+### Game Assets
+5. Baleia Moby Dick, disponível em <https://sketchfab.com/3d-models/sperm-whale-7ac6a7cdc74744739092df2a7f44833c>
+6. 
