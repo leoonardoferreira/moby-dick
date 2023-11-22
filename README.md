@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://i.imgur.com/7EuHxiB.jpg" alt="Moby Dick" border="0">
-  Game by Junáticos <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+  Game by Junáticos <a rel="license" href="">CC BY-NC-SA 4.0</a>
 </p>
 
 
@@ -26,84 +26,23 @@ Moby Dick é um jogo 3D idealizado em torno da 14ª ODS "Vida na Água", um dos 
 Você só quer proteger seus amigos e familiares dos humanos malvados, propagar sua espécie pelos mares do Japão e viver em paz. Os humanos só vão parar quando você mostrar seu potencial e força para combatê-los, bora lutar?!
 <br><br>
 
-## 🛠 Estrutura de pastas
+## Pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
-
-Há também 4 pastas que seguem da seguinte forma:
+Há 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
+<b>executáveis</b>: Binários e executáveis do projeto.
+<b>imagens</b>: Imagens do sistema.
 <b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 1º método: Clone o repositório do GitHub e abra a Unity na versão 2022.3.11f.
-2º método: 
+<br>
+2º Método: Encontre o BaleiaAzul.exe na pasta executáveis e execute-o como qualquer outro programa. (pode executar sem medo, não tem vírus não!)
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
-## 🗃 Histórico de lançamentos
-
-A cada atualização os detalhes devem ser lançados aqui.
-
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
 
 ## 📋 Licença/License
 
