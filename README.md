@@ -8,15 +8,15 @@
 
 ## Junáticos
 
-## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, <a href="#">Luciano Reis Massaro</a>, <a href="#">Matheus Morais Zimmer</a>, <a href="#">Luis Felipe Torelli Sparrapan</a>
+## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, Luciano Reis Massaro, Matheus Morais Zimmer, Luis Felipe Torelli Sparrapan
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="#">Fabiano Onça</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, Fabiano Onça
 
 ## Descrição
 
 <p align="center">
 <img src="https://i.imgur.com/7EuHxiB.jpg" alt="Moby Dick" border="0">
-  Game by Junáticos <a rel="license" href="">CC BY-NC-SA 4.0</a>
+  Game by Junáticos <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a>
 </p>
 
 
@@ -30,9 +30,9 @@ Você só quer proteger seus amigos e familiares dos humanos malvados, propagar 
 
 Há 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-<b>executáveis</b>: Binários e executáveis do projeto.
-<b>imagens</b>: Imagens do sistema.
+<b>documentos</b>: Toda a documentação estará nesta pasta.<br>
+<b>executáveis</b>: Binários e executáveis do projeto.<br>
+<b>imagens</b>: Imagens do sistema.<br>
 <b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
@@ -55,8 +55,15 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 3. <https://github.com/gabrieldejesus/readme-model>
 4. <https://creativecommons.org/share-your-work/>
-6. <https://freesound.org/>
-7. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+6. Soundtrack por <https://freesound.org/>
+7. How to create an underwater effect in Unity (Tutorial) by #SyntyStudios <https://www.youtube.com/watch?v=JStFXTZMCv0>
+   
 ### Game Assets
 5. Baleia Moby Dick, disponível em <https://sketchfab.com/3d-models/sperm-whale-7ac6a7cdc74744739092df2a7f44833c>
-6. 
+6. NV Job Water Shader, disponível em <https://nvjob.github.io/unity/nvjob-water-shaders-v2>
+7. Emotional Baggage Font, disponívem em <https://www.dafont.com/emotional-baggage.font>
+8. Snow Mountain, disponível em <https://assetstore.unity.com/packages/3d/environments/landscapes/free-snow-mountain-63002>
+9. Drunken Sailor, disponível em <https://freesound.org/people/Breviceps/sounds/516076/>
+10. Low Poly Rocks, disponível em <https://assetstore.unity.com/packages/3d/environments/low-poly-rock-models-119245>
+11. Nuvem, disponívem em <https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373>
+12. Fishing boat, disponívem em <https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181>
