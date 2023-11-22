@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Moby Dick" border="0">
+<img src="https://i.imgur.com/7EuHxiB.jpg" alt="Moby Dick" border="0">
   Game by Junáticos <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </p>
 
@@ -42,8 +42,6 @@ Você só quer proteger seus amigos e familiares dos humanos malvados, propagar 
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
 
 Há também 4 pastas que seguem da seguinte forma:
 
