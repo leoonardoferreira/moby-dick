@@ -21,7 +21,7 @@
 
 
 <br><br>
-Moby Dick é um jogo 3D idealizado em torno da 14ª ODS "Vida na Água", um dos objetivo de desenvolvimento sustentável da Organização das Nações Unidas (ONU). Nele, você é uma baleia branca que tem como objetivo aniquilar os barcos inimigos que fazem a caça ilegal de sua espécie.
+Moby Dick é um jogo 3D idealizado em torno da 14ª ODS "Vida na Água", um dos objetivos de desenvolvimento sustentável da Organização das Nações Unidas (ONU). Nele, você é uma baleia branca que tem como objetivo aniquilar os barcos inimigos que fazem a caça ilegal de sua espécie.
 <br><br>
 Você só quer proteger seus amigos e familiares dos humanos malvados, propagar sua espécie pelos mares do Japão e viver em paz. Os humanos só vão parar quando você mostrar seu potencial e força para combatê-los, bora lutar?!
 <br><br>
