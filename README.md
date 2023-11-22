@@ -66,4 +66,4 @@ Aqui estão as referências usadas no projeto.
 9. Drunken Sailor, disponível em <https://freesound.org/people/Breviceps/sounds/516076/>
 10. Low Poly Rocks, disponível em <https://assetstore.unity.com/packages/3d/environments/low-poly-rock-models-119245>
 11. Nuvem, disponívem em <https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373>
-12. Fishing boat, disponívem em <https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181>
+12. Fishing boat, disponível em <https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181>
