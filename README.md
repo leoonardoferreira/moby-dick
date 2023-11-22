@@ -63,12 +63,13 @@ Coloque código do prompt de comnando se for necessário
 
 <b>Windows:</b>
 
+1º método: Clone o repositório do GitHub e abra a Unity na versão 2022.3.11f.
+2º método: 
+
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+
 
 <b>HTML:</b>
 
