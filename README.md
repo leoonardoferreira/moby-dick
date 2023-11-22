@@ -8,9 +8,9 @@
 
 ## Junáticos
 
-## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luciano Reis Massaro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Morais Zimmer</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luis Felipe Torelli Sparrapan</a>
+## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, <a href="#">Luciano Reis Massaro</a>, <a href="#">Matheus Morais Zimmer</a>, <a href="#">Luis Felipe Torelli Sparrapan</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="#">Fabiano Onça</a>
 
 ## Descrição
 
