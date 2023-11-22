@@ -32,7 +32,7 @@ Há 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.<br>
 <b>executáveis</b>: Binários e executáveis do projeto.<br>
-<b>imagens</b>: Imagens do sistema.<br>
+<b>imagens</b>: Imagens do jogo.<br>
 <b>src</b>: Pasta que contém o código fonte.
 
 ## Apresentação
