@@ -35,6 +35,10 @@ Há 4 pastas que seguem da seguinte forma:
 <b>imagens</b>: Imagens do sistema.<br>
 <b>src</b>: Pasta que contém o código fonte.
 
+## Apresentação
+
+Nossa apresentação de slides está disponível na pasta documentos, juntamente com o Relatório de Projeto de Extensão.
+
 ## 🛠 Instalação
 
 <b>Windows:</b>
