@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, Luciano Reis Massaro, Matheus Morais Zimmer, Luis Felipe Torelli Sparrapan
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, Fabiano Onça
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, Fabiano Onça
 
 ## Descrição
 
