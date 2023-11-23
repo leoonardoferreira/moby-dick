@@ -65,9 +65,9 @@ Aqui estão as referências usadas no projeto.
 ### Game Assets
 5. Baleia Moby Dick, disponível em <https://sketchfab.com/3d-models/sperm-whale-7ac6a7cdc74744739092df2a7f44833c>
 6. NV Job Water Shader, disponível em <https://nvjob.github.io/unity/nvjob-water-shaders-v2>
-7. Emotional Baggage Font, disponívem em <https://www.dafont.com/emotional-baggage.font>
+7. Emotional Baggage Font, disponível em <https://www.dafont.com/emotional-baggage.font>
 8. Snow Mountain, disponível em <https://assetstore.unity.com/packages/3d/environments/landscapes/free-snow-mountain-63002>
 9. Drunken Sailor, disponível em <https://freesound.org/people/Breviceps/sounds/516076/>
 10. Low Poly Rocks, disponível em <https://assetstore.unity.com/packages/3d/environments/low-poly-rock-models-119245>
-11. Nuvem, disponívem em <https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373>
+11. Nuvem, disponível em <https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373>
 12. Fishing boat, disponível em <https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-boat-23181>
