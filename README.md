@@ -8,7 +8,7 @@
 
 ## Junáticos
 
-## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, Luciano R. Massaro, Matheus Morais Zimmer, Luis Felipe Torelli Sparrapan
+## Integrantes: <a href="https://www.linkedin.com/in/leoonaardoferreira/">Leonardo Ferreira da Silva</a>, Luciano R. Massaro, Matheus M. Zimmer, Luis Felipe Torelli Sparrapan
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, Fabiano Onça
 
